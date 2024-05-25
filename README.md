@@ -1,4 +1,2 @@
 # gameday
-Tashkent AWS gamedey 
-
-AE +++
+Tashkent AWS gameday
